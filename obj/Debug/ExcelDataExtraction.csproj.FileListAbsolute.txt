@@ -1,0 +1,15 @@
+C:\Users\uhr\source\repos\ExcelDataExtraction\bin\Debug\ExcelDataExtraction.exe.config
+C:\Users\uhr\source\repos\ExcelDataExtraction\bin\Debug\ExcelDataExtraction.exe
+C:\Users\uhr\source\repos\ExcelDataExtraction\bin\Debug\ExcelDataExtraction.pdb
+C:\Users\uhr\source\repos\ExcelDataExtraction\obj\Debug\ExcelDataExtraction.csproj.AssemblyReference.cache
+C:\Users\uhr\source\repos\ExcelDataExtraction\obj\Debug\MainWindow.g.cs
+C:\Users\uhr\source\repos\ExcelDataExtraction\obj\Debug\App.g.cs
+C:\Users\uhr\source\repos\ExcelDataExtraction\obj\Debug\ExcelDataExtraction_MarkupCompile.cache
+C:\Users\uhr\source\repos\ExcelDataExtraction\obj\Debug\ExcelDataExtraction_MarkupCompile.lref
+C:\Users\uhr\source\repos\ExcelDataExtraction\obj\Debug\MainWindow.baml
+C:\Users\uhr\source\repos\ExcelDataExtraction\obj\Debug\ExcelDataExtraction.g.resources
+C:\Users\uhr\source\repos\ExcelDataExtraction\obj\Debug\ExcelDataExtraction.Properties.Resources.resources
+C:\Users\uhr\source\repos\ExcelDataExtraction\obj\Debug\ExcelDataExtraction.csproj.GenerateResource.cache
+C:\Users\uhr\source\repos\ExcelDataExtraction\obj\Debug\ExcelDataExtraction.csproj.CoreCompileInputs.cache
+C:\Users\uhr\source\repos\ExcelDataExtraction\obj\Debug\ExcelDataExtraction.exe
+C:\Users\uhr\source\repos\ExcelDataExtraction\obj\Debug\ExcelDataExtraction.pdb
